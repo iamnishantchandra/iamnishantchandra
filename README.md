@@ -5,8 +5,7 @@
 - 💞️ I’m looking to collaborate on -> React , ASP.NET MVC .
 - 📫 How to reach me ...   - mail- "NishantChandra85@gmail.com"
                         
-                        -linkedin link- "www.linkedin.com/in/iamnishantchandra",<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-                        
+                        -linkedin link- "www.linkedin.com/in/iamnishantchandra" 
                         -github link- "https://github.com/iamnishantchandra"
 
 
