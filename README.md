@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iamnishantchandra (Nishant Chandra) Full Stack Developer
-- 👀 I’m currently Working Technology - .Net using(C#),MySql,JavaScript,HTML,CSS,BootStrap
-- 👀 Technology Worked On "Python"+"Java"+"DSA"...
-- 🌱 I’m currently learning "DSA "...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m currently Working Technology - .Net using(C#), MySql, JavaScript, BootStrap, CSS, HTML.
+- 👀 Technology/Language Worked On ->   .net (MVC) ,JavaScript , JSon , BootStrap, CSS, HTML, C# ,Python , Java , DSA .
+- 🌱 I’m currently learning -> React , .net core ,React , DSA .
+- 💞️ I’m looking to collaborate on -> React , .net (MVC)  .
 - 📫 How to reach me ...   - mail- "NishantChandra85@gmail.com"
                         
                         -linkedin link- "www.linkedin.com/in/iamnishantchandra"
