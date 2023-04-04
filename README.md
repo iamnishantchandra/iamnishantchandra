@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamnishantchandra (Nishant Chandra) Full Stack Developer
-- 👀 I’m currently Working Technology - .Net using(C#), MySql, JavaScript, BootStrap, CSS, HTML.
+- 👀 I’m currently Working Technology - .net Using(C#), MySql, JavaScript, BootStrap, CSS, HTML.
 - 👀 Technology/Language Worked On ->   .net (MVC) ,JavaScript , JSon , BootStrap, CSS, HTML, C# ,Python , Java , DSA .
 - 🌱 I’m currently learning -> React , .net core ,React , DSA .
 - 💞️ I’m looking to collaborate on -> React , .net (MVC)  .
