@@ -3,7 +3,7 @@
 - 👀 Technology/Language Worked On ->   ASP.NET MVC ,JavaScript , JSon , BootStrap, CSS, HTML, C# ,Python , Java , DSA .
 - 🌱 I’m currently learning -> React , .NET , DSA .
 - 💞️ I’m looking to collaborate on -> React , ASP.NET MVC .
-- 📫 How to reach me ...   - mail- "iamnishantchandra@gmail.com"
+- 📫 How to reach me ...   - mail- " iamnishantchandra@gmail.com ".
                         
                         -linkedin link- "www.linkedin.com/in/iamnishantchandra" 
                         -github link- "https://github.com/iamnishantchandra"
