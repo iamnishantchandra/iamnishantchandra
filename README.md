@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iamnishantchandra (Nishant Chandra) Full Stack Developer
-- 👀 I’m currently Working Technology - .Net Core,Entity FrameWork,MySql,ASP.NET MVC Using(C#), MySql, JavaScript, BootStrap, CSS, HTML.
+- 👀 I’m currently Working Technology - C#, .Net Core, Entity FrameWork, MySql, ASP.NET MVC, MySql, JavaScript,JSon, BootStrap, CSS, HTML.
 - 👀 Technology/Language Worked On ->   ASP.NET MVC ,JavaScript , JSon , BootStrap, CSS, HTML, C# ,Python , Java , DSA .
 - 🌱 I’m currently learning -> React , .NET , DSA .
-- 💞️ I’m looking to collaborate on -> React , ASP.NET MVC .
+- 💞️ I’m looking to collaborate on -> React , C#, .Net Core, Entity FrameWork, MySql, ASP.NET MVC, MySql .
 - 📫 How to reach me ...   - mail- " iamnishantchandra@gmail.com ".
                         
                         -linkedin link- "www.linkedin.com/in/iamnishantchandra" 
